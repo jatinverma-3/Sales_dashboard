@@ -1,4 +1,4 @@
-**GLOBAL SALES DASHBOARD**
+* GLOBAL SALES DASHBOARD
 
 The Sales Dashboard is designed to provide clear insights into business performance through data visualization. It displays key metrics such as revenue, profit, and top-selling products using an interactive and user-friendly interface.
 
